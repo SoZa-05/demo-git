@@ -1,2 +1,2 @@
-# demo-git
-my demo git ;)
+# Soffi Zahir
+My Personal blog
